@@ -1,0 +1,9 @@
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\bin\Debug\netstandard2.0\Symas.Core.Service.deps.json
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\bin\Debug\netstandard2.0\Symas.Core.Service.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\bin\Debug\netstandard2.0\Symas.Core.Service.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.csprojAssemblyReference.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.AssemblyInfoInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.AssemblyInfo.cs
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.csproj.CoreCompileInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Service\obj\Debug\netstandard2.0\Symas.Core.Service.pdb

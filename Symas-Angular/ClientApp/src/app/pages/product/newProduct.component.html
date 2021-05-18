@@ -1,0 +1,38 @@
+<section>
+  <div class="container">
+    
+    <form [formGroup]="miFormulario">
+      <fieldset>
+        <legend>Product:</legend>
+      <div class="row">
+        <mat-form-field appearance="fill" class="input-md">
+          <mat-label>Product Name</mat-label>
+          <input matInput formControlName="productName">
+        </mat-form-field>
+        <!-- Product Name: <input type="text"
+          class="form-control" formControlName="productName" /> -->
+      </div>
+      <div class="row">
+        <mat-form-field appearance="fill" class="input-md">
+          <mat-label>Category</mat-label>
+          <mat-select formControlName="categoryId">
+            <mat-option value='1'>Consumible</mat-option>
+            <mat-option value='2'>Medicamento</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+      <div class="row">
+        <mat-form-field appearance="fill" class="input-md">
+          <mat-label>Description</mat-label>
+          <textarea matInput  formControlName="description"></textarea>
+        </mat-form-field>
+      </div>
+      <div class="Row" style="display: flex; justify-content: flex-end">
+        <button mat-raised-button color="primary" (click)="onSave()">
+          Save
+        </button>
+      </div>
+    </fieldset>
+    </form>
+  </div>
+</section>

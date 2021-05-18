@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Symas.Core.Repository\Symas.Core.Repository.csproj" />
+    <ProjectReference Include="..\Symas.Core.Validation\Symas.Core.Validation.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Models\Symas.SymasSalud.Models.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Repositories\Symas.SymasSalud.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

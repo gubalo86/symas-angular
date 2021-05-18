@@ -1,0 +1,127 @@
+.z-10 {
+  z-index: 10;
+}
+.relative {
+  position: relative;
+}
+.min-h-0 {
+  min-height: 0;
+}
+.flex-auto {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+
+.flex-col {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+.flex {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.jss2125 {
+  flex: 1 1 auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 100%;
+  flex-direction: row;
+  background-color: #f6f7f9;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.py-24 {
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
+}
+
+.p-24 {
+  padding: 2.4rem;
+}
+
+.px-24 {
+  padding-left: 2.4rem;
+  padding-right: 2.4rem;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.jss2127 {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 200px;
+  position: absolute;
+  background: linear-gradient(to right, #1b2330 0%, #252f3e 100%);
+  pointer-events: none;
+  background-size: cover;
+}
+
+.jss2128 {
+  flex: 1 1 100%;
+  display: flex;
+  padding: 0 3.2rem;
+  z-index: 2;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  flex-direction: column;
+}
+
+.jss2129 {
+  color: #fff;
+  height: 136px;
+  display: flex;
+  max-height: 136px;
+  min-height: 136px;
+}
+
+.jss2131 {
+  flex: 1 1 100%;
+  display: flex;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+  min-height: 0;
+  border-radius: 20px 20px 0 0;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.jss2132 {
+  height: 64px;
+  display: flex;
+  min-height: 64px;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.ps {
+  overflow: hidden !important;
+  overflow-anchor: none;
+  -ms-overflow-style: none;
+  touch-action: auto;
+  -ms-touch-action: auto;
+}
+
+.jss2133 {
+  flex: 1 1 auto;
+  height: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.jss450 {
+  overscroll-behavior: contain;
+}

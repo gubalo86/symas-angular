@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Symas.SymasSalud.Models/1.0.0": {
+        "runtime": {
+          "Symas.SymasSalud.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Symas.SymasSalud.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

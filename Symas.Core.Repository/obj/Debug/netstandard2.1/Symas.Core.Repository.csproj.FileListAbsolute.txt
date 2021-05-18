@@ -1,0 +1,12 @@
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\bin\Debug\netstandard2.1\Symas.Core.Repository.deps.json
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\bin\Debug\netstandard2.1\Symas.Core.Repository.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\bin\Debug\netstandard2.1\Symas.Core.Repository.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\bin\Debug\netstandard2.1\Symas.Core.Validation.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\bin\Debug\netstandard2.1\Symas.Core.Validation.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.csprojAssemblyReference.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.AssemblyInfoInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.AssemblyInfo.cs
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.csproj.CoreCompileInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.csproj.CopyComplete
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Repository\obj\Debug\netstandard2.1\Symas.Core.Repository.pdb

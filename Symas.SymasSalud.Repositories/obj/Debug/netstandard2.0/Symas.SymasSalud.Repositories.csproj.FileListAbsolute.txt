@@ -1,0 +1,9 @@
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\bin\Debug\netstandard2.0\Symas.SymasSalud.Repositories.deps.json
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\bin\Debug\netstandard2.0\Symas.SymasSalud.Repositories.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\bin\Debug\netstandard2.0\Symas.SymasSalud.Repositories.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.csprojAssemblyReference.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.AssemblyInfoInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.AssemblyInfo.cs
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.csproj.CoreCompileInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.SymasSalud.Repositories\obj\Debug\netstandard2.0\Symas.SymasSalud.Repositories.pdb

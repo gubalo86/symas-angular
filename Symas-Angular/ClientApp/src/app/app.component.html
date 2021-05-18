@@ -1,0 +1,37 @@
+ <body> 
+  <!-- <app-nav-menu></app-nav-menu>
+  <div id="main" class="container">
+    <router-outlet></router-outlet>
+  </div> -->
+
+  <div id="mySidenav" class="sidenav">
+    <div class="flex flex-auto flex-col overflow-hidden h-full jss2036">
+      <header style="height: 64px;min-height: 64px;" class="jss2008 jss2038 jss2042 jss2045 flex flex-row items-center flex-shrink px-12 shadow-0 jss2015">
+        <div class="flex flex-1 mx-4">
+          <div class="jss2049 flex items-center">
+            <img class="w-24 h-24" src="http://react-material.fusetheme.com/assets/images/logos/fuse.svg" />
+            <p class="jss2051 text-16 leading-none mx-12 font-medium logo-text jss2053 jss2073">FUSE</p>
+          </div>
+          <mat-icon aria-hidden="false" aria-label="Example home icon" (click)="closeNav()">home</mat-icon>
+        </div>
+      </header>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Clients</a>
+      <a href="#">Contact</a>
+    </div>
+    <!-- <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a> -->
+  </div>
+
+  <div id="main" style="margin-left: 250px;">
+    <app-nav-menu></app-nav-menu>
+    <div style="width: 100%;">
+      <!-- <app-simplePage></app-simplePage>  -->
+      <app-pageCarded></app-pageCarded>
+    </div>  
+  </div>
+</body> 

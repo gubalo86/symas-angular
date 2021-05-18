@@ -1,0 +1,72 @@
+.z-10 {
+  z-index: 10;
+}
+.relative {
+  position: relative;
+}
+.min-h-0 {
+  min-height: 0;
+}
+
+.flex-auto {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+.flex-col {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+.flex {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.jss1421 {
+  flex: 1 1 auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  min-width: 0;
+  min-height: 100%;
+  flex-direction: column;
+  background-color: #f6f7f9;
+}
+
+.jss1425 {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  position: absolute;
+  pointer-events: none;
+}
+
+.jss1424 {
+  color: #fff;
+  height: 120px;
+  display: flex;
+  background: linear-gradient(to right, #252f3e 0%, #1b2330 100%);
+  min-height: 120px;
+  background-size: cover;
+  background-color: #1b2330;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.p-24 {
+  padding: 2.4rem;
+}
+
+.jss1427 {
+  height: 64px;
+  display: flex;
+  min-height: 64px;
+  align-items: center;
+}
+
+.jss1428 {
+  flex: 1 0 auto;
+  padding: 0 2.4rem;
+}

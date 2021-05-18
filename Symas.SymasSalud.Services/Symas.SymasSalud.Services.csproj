@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Symas.Core.Repository\Symas.Core.Repository.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Interfaces\Symas.SymasSalud.Interfaces.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Models\Symas.SymasSalud.Models.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Repositories\Symas.SymasSalud.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

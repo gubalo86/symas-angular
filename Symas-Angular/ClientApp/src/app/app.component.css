@@ -1,0 +1,117 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #252f3e;
+  /*overflow-x: hidden;*/
+  transition: 0.5s;
+  /*padding-top: 60px;*/
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left 0.5s;
+  padding: 0 0 16px 0;
+}
+
+.w-24 {
+  width: 2.4rem;
+}
+.h-24 {
+  height: 2.4rem;
+}
+
+.w-40 {
+    width: 4rem;
+}
+.p-0 {
+    padding: 0;
+}
+.h-40 {
+    height: 4rem;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+.jss2036 {
+  color: rgb(255, 255, 255);
+  background-color: #252f3e;
+}
+
+.jss2008 {
+  color: rgb(255, 255, 255);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #464e5b;
+}
+
+.jss2038 {
+  width: 100%;
+  display: flex;
+  z-index: 1100;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+
+.jss2042 {
+  position: static;
+}
+
+.jss2045 {
+  color: #fff;
+  background-color: #1b2330;
+}
+
+.jss2015 {
+  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%),
+    0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+}
+
+.jss2051 {
+  margin: 0;
+}
+
+.jss2053 {
+  font-size: 1.3rem;
+  font-family: Poppins, Roboto, "Helvetica", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.jss2073 {
+  color: inherit;
+}

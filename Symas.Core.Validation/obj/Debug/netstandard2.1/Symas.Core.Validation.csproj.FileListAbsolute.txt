@@ -1,0 +1,9 @@
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\bin\Debug\netstandard2.1\Symas.Core.Validation.deps.json
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\bin\Debug\netstandard2.1\Symas.Core.Validation.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\bin\Debug\netstandard2.1\Symas.Core.Validation.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.AssemblyInfoInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.AssemblyInfo.cs
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.csproj.CoreCompileInputs.cache
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.dll
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.pdb
+E:\Documentos\VisualStudio2019\Angular\Symas-Angular\Symas.Core.Validation\obj\Debug\netstandard2.1\Symas.Core.Validation.csprojAssemblyReference.cache
