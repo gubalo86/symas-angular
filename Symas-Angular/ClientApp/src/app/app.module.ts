@@ -6,8 +6,11 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
+import { PageBlankComponent} from './layouts/pageBlank/pageBlank.component';
 import { SimplePageComponent} from './layouts/pageSimple/simplePage.component';
 import { PageCardedComponent } from './layouts/pageCarded/pageCarded.component';
+
+import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { HomeComponent } from './home/home.component';
 import { CounterComponent } from './counter/counter.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
@@ -24,6 +27,7 @@ import { LoginComponent } from './pages/login/login.component';
 /*Routes*/
 const routes:Routes=[
       { path: '', component: LoginComponent, pathMatch: 'full' },
+      { path: 'dashboard', component: DashboardComponent },
       { path: 'home', component: HomeComponent },
       { path: 'counter', component: CounterComponent },
       { path: 'fetch-data', component: FetchDataComponent },
@@ -37,9 +41,11 @@ const routes:Routes=[
   declarations: [
     AppComponent,
     NavMenuComponent,
+    PageBlankComponent,
     SimplePageComponent,
     PageCardedComponent,
     LoginComponent,
+    DashboardComponent,
     HomeComponent,
     CounterComponent,
     FetchDataComponent,

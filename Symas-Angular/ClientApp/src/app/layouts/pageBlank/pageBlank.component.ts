@@ -5,5 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './pageBlank.component.html',
   styleUrls:['./pageBlank.component.css']
 })
-export class PageCardedComponent {
+
+export class PageBlankComponent {
 }
