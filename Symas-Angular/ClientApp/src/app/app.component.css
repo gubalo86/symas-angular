@@ -2,6 +2,10 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+.active {
+  color: red;
+}
+
 .sidenav {
   height: 100%;
   width: 250px;
@@ -10,7 +14,7 @@ body {
   top: 0;
   left: 0;
   background-color: #252f3e;
-  /*overflow-x: hidden;*/
+  overflow: auto;
   transition: 0.5s;
   /*padding-top: 60px;*/
 }
@@ -41,21 +45,14 @@ body {
   padding: 0 0 16px 0;
 }
 
-.w-24 {
-  width: 2.4rem;
-}
-.h-24 {
-  height: 2.4rem;
-}
-
 .w-40 {
-    width: 4rem;
+  width: 4rem;
 }
 .p-0 {
-    padding: 0;
+  padding: 0;
 }
 .h-40 {
-    height: 4rem;
+  height: 4rem;
 }
 
 @media screen and (max-height: 450px) {
@@ -117,7 +114,7 @@ body {
 }
 
 .jss1805 {
-  color: rgb(255,255,255);
+  color: rgb(255, 255, 255);
   transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
   background-color: #464e5b;
 }
@@ -141,14 +138,16 @@ body {
 }
 
 .jss1812 {
-  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+  box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%),
+    0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
 }
 
 .jss1848 {
   margin: 0;
 }
 
-.jss1900.user .username, .jss1900.user .email {
+.jss1900.user .username,
+.jss1900.user .email {
   transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
 }
 
@@ -167,7 +166,7 @@ body {
   font-size: 1.8571428571428572rem;
   align-items: center;
   flex-shrink: 0;
-  font-family: Poppins,Roboto,"Helvetica",Arial,sans-serif;
+  font-family: Poppins, Roboto, "Helvetica", Arial, sans-serif;
   line-height: 1;
   user-select: none;
   border-radius: 50%;

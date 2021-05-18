@@ -8,5 +8,6 @@ import { LayoutService } from 'src/app/services/layouts/layouts.service';
 })
 export class PageCardedComponent {
   title:string="Header Test"
+
   constructor(public layoutService:LayoutService){}
 }

@@ -1,11 +1,6 @@
  <body> 
-  <!-- <app-nav-menu></app-nav-menu>
-  <div id="main" class="container">
-    <router-outlet></router-outlet>
-  </div> -->
-
   <div id="mySidenav" class="sidenav">
-    <div class="flex flex-auto flex-col overflow-hidden h-full jss2036">
+    <div class="flex flex-auto flex-col h-full jss2036">
       <header style="height: 64px;min-height: 64px;" class="jss2008 jss2038 jss2042 jss2045 flex flex-row items-center flex-shrink px-12 shadow-0 jss2015">
         <div class="flex flex-1 mx-4">
           <div class="jss2049 flex items-center">
@@ -28,16 +23,30 @@
           </div>
         </div>
       </header>
+      <ul style="margin: 0 0 0 0;list-style-type: none;padding: 10px;width: 100%;">
+        <li 
+        *ngFor="let shoe of typesOfShoes" [value]="shoe"
+        >
+        <button color="accent" mat-raised-button style="width: 100%;margin-bottom: 5px; background-color: #22d3ee;" >{{shoe}}</button>
+        </li>
+        <li>
+          <mat-accordion>
+            <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+              <mat-expansion-panel-header  style="background-color: orange;">
+                <mat-panel-title>
+                  Self aware panel
+                </mat-panel-title>
+              </mat-expansion-panel-header>
+              <p>I'm visible because I am open</p>
+            </mat-expansion-panel>
+          </mat-accordion>
+        </li>
+      </ul>
       <a href="#">About</a>
       <a href="#">Services</a>
       <a href="#">Clients</a>
       <a href="#">Contact</a>
     </div>
-    <!-- <a href="javascript:void(0)" class="closebtn" (click)="closeNav()">&times;</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Clients</a>
-    <a href="#">Contact</a> -->
   </div>
 
   <div id="main" style="margin-left: 250px;">
