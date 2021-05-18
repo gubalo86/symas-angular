@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { LayoutService } from 'src/app/services/layouts/layouts.service';
 
 @Component({
   selector: 'app-pageCarded',
@@ -6,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrls:['./pageCarded.component.css']
 })
 export class PageCardedComponent {
-  
+  title:string="Header Test"
+  constructor(public layoutService:LayoutService){}
 }
