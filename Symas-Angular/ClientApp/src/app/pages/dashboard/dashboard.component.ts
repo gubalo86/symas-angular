@@ -4,7 +4,7 @@ import { LayoutService } from 'src/app/services/layouts/layouts.service';
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
-  styleUrls:['./dashboard.component.css']
+  styleUrls:['./dashboard.component.css','../../../tailwind.css']
 })
 export class DashboardComponent {
 
