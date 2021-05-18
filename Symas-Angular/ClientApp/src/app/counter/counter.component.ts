@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { LayoutService } from '../services/layouts/layouts.service';
 
 @Component({
   selector: 'app-counter-component',
@@ -6,6 +7,10 @@ import { Component } from '@angular/core';
 })
 export class CounterComponent {
   public currentCount = 0;
+
+  constructor(public layoutService:LayoutService){
+    this.layoutService.title="Counter";
+  }
 
   public incrementCounter() {
     this.currentCount++;
